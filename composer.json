@@ -1,9 +1,9 @@
 {
-    "name": "dada/tron-api",
+    "name": "dada36925/tron-api",
     "description": "A PHP API for interacting with Tron (Trx)",
     "license": "MIT",
     "type":   "library",
-    "homepage": "https://github.com/dada/tron-api",
+    "homepage": "https://github.com/dada36925/tron-api",
     "authors": [
         {
             "name": "Shamsudin Serderov",
